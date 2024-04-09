@@ -23,7 +23,7 @@ public class AboutMe {
         System.out.println("Digite seu altura");
         Double altura = scanner.nextDouble();
 
-        System.out.println("Olá me chamo" + nome.toUpperCase() + sobrenome+ " ");
+        System.out.println("Olá me chamo" + nome.toUpperCase() + sobrenome + " ");
         System.out.println("Tenho " + idade + " anos ");
         System.out.println("MINHA ALTURA É " + altura + "cm");
         }
